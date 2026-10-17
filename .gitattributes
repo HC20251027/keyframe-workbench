@@ -1,0 +1,14 @@
+* text=auto
+
+*.html text eol=lf
+*.js text eol=lf
+*.md text eol=lf
+
+*.png binary
+*.jpg binary
+*.webp binary
+*.mp4 binary
+
+# 宣传素材只在仓库页面用，不进 skill 包（zip 由 git archive 产出）
+docs/video export-ignore
+docs/img/intro-preview.webp export-ignore
