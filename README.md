@@ -4,9 +4,9 @@
 
 ## 演示
 
-[![25 秒介绍片：每一帧由代码重绘，线条会「沸」](docs/img/intro-preview.webp)](docs/video/keyframe-workbench-intro.mp4)
+https://github.com/user-attachments/assets/a5605da4-cdc6-4e16-9c9a-90c4c2222679
 
-25 秒，整片逐帧手绘渲染——水彩世界、角色表演、中文手绘字。上图是全程预览，点开看 1080p 完整版。
+25 秒，整片逐帧手绘渲染——水彩世界、角色表演、中文手绘字。每一帧都由代码独立重绘，线条会「沸」。
 
 ## 定位：它站在制作流程的哪一环
 
@@ -68,11 +68,11 @@ AI/代码生成动画 → 本工作台粗调（节奏/关键帧/曲线/切点）
 
 轨道模式（何时动）——菱形是关键帧，红色是当前时间，区间可直接拖动 retime：
 
-![轨道模式](docs/img/screenshot-tracks.png)
+![轨道模式](https://github.com/user-attachments/assets/a05c245a-46ee-411f-a584-10fffd66ce61)
 
 曲线模式（怎么动）——逐段插值方式可改，手柄可取，编辑结果立刻反映到画布：
 
-![曲线模式](docs/img/screenshot-curve.png)
+![曲线模式](https://github.com/user-attachments/assets/c912cbf7-68d1-4a58-a6bc-2c3bf2c0dd67)
 
 ## 参考项目
 
